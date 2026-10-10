@@ -50,6 +50,31 @@ pnpm tauri build
 
 Tauri v2 (Rust) + React + TypeScript.
 
+## Also from InPrincipio: Grey Ash: Invasion
+
+**Grey Ash: Invasion™** («Серый пепел. Вторжение») is a survival role-playing
+game set in a modern city, now in active, intensive development.
+
+On a quiet Friday in June, grey ash begins to fall over the city. Ilya, a
+draughtsman, is locked inside his late grandfather's flat on the eighth floor
+of a panel block: no keys, the phone network failing, and people outside
+starting to change. The game is told in the first person and is played through
+illustrated rooms with clickable objects, a notebook and a floor plan that grows
+as he explores.
+
+Where it stands now:
+
+- A playable prologue: a few days inside the flat, from an ordinary morning to
+  the way out — down a rope of knotted bedsheets to the balcony below.
+- Body and mind (hunger, thirst, fatigue, nerves, wounds and ailments), skills
+  that grow with use, an inventory, day-by-day news from TV, radio and forums.
+- Turn-based close combat with dice rolls and body parts.
+- Four languages: Russian (original), Ukrainian, English, Czech.
+- macOS first (Electron + TypeScript). The source is private for now.
+
+Built by Dmitry Koshelkov together with a small team of AI agents (Claude,
+Codex, Cursor) — the same way of working InPrincipio was made for.
+
 ## Licence
 
 Source is published so it can be read and checked; released builds are free to
@@ -111,6 +136,30 @@ pnpm tauri build
 ## Стек
 
 Tauri v2 (Rust) + React + TypeScript.
+
+## Также в InPrincipio: «Серый пепел. Вторжение»
+
+**«Серый пепел. Вторжение»™** (Grey Ash: Invasion) — ролевая игра о выживании
+в современном городе. Сейчас в активной, интенсивной разработке.
+
+Тихой июньской пятницей на город начинает падать серый пепел. Чертёжник Илья
+заперт в квартире покойного деда на восьмом этаже панельного дома: ключей нет,
+связь пропадает, а люди снаружи начинают меняться. Игра ведётся от первого
+лица: иллюстрированные комнаты с предметами, которые можно трогать, блокнот и
+план квартиры, который дорисовывается по ходу.
+
+Что есть сейчас:
+
+- Проходимый пролог: несколько дней в квартире — от обычного утра до выхода по
+  верёвке из простыней на балкон этажом ниже.
+- Тело и нервы (голод, жажда, усталость, раны и хвори), навыки, которые растут
+  от дела, инвентарь, вести по дням из телевизора, радио и форумов.
+- Пошаговый ближний бой с бросками кубика и частями тела.
+- Четыре языка: русский (исходный), украинский, английский, чешский.
+- Сначала macOS (Electron + TypeScript). Исходники пока закрыты.
+
+Делает Дмитрий Кошельков вместе с небольшой командой ИИ-агентов (Claude, Codex,
+Cursor) — так, как и задумывался InPrincipio.
 
 ## Лицензия
 
