@@ -72,8 +72,7 @@ Where it stands now:
 - Four languages: Russian (original), Ukrainian, English, Czech.
 - macOS first (Electron + TypeScript). The source is private for now.
 
-Built by Dmitry Koshelkov together with a small team of AI agents (Claude,
-Codex, Cursor) — the same way of working InPrincipio was made for.
+Made by KDV.
 
 ## Licence
 
@@ -158,8 +157,7 @@ Tauri v2 (Rust) + React + TypeScript.
 - Четыре языка: русский (исходный), украинский, английский, чешский.
 - Сначала macOS (Electron + TypeScript). Исходники пока закрыты.
 
-Делает Дмитрий Кошельков вместе с небольшой командой ИИ-агентов (Claude, Codex,
-Cursor) — так, как и задумывался InPrincipio.
+Делает KDV.
 
 ## Лицензия
 
